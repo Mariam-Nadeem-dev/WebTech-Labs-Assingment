@@ -1,0 +1,20 @@
+Lab 05 – Task 4: Debug It and Question AI
+
+Part B – Question AI
+
+Q1. Does the AI-generated code use state variables, or does it break the search functionality?
+
+The AI-generated code uses two state variables, "searchText" and "freeOnly", to remember the user's search input 
+and free-course selection. It keeps the search functionality working because both filters are applied together 
+without affecting each other.
+
+Q2. Test search and free-only together, then clear both. What happened?
+
+When I searched for "Python" and turned ON the Free Courses button, only the free Python course appeared. 
+When I cleared the search field and turned OFF the free-course filter, all six courses appeared again.
+
+Q3. Write two sentences: one thing AI did well, and one thing you had to fix or question.
+
+AI did well by creating a Free Courses button that filters courses according to their prices. I questioned 
+whether the search and free-course filters would work together, so I tested both features to make sure they did 
+not interfere with each other.
