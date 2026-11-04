@@ -1,3 +1,4 @@
+
 Lab 05 – Task 4: Debug It and Question AI
 
 Part B – Question AI
@@ -17,4 +18,3 @@ Q3. Write two sentences: one thing AI did well, and one thing you had to fix or 
 
 AI did well by creating a Free Courses button that filters courses according to their prices. I questioned 
 whether the search and free-course filters would work together, so I tested both features to make sure they did 
-not interfere with each other.
